@@ -1,4 +1,4 @@
-package com.cdl.headfirst.behavior;
+package com.cdl.headfirst.duckexample.behavior;
 
 public interface QuackBehavior {
 

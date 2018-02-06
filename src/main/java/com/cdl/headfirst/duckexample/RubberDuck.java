@@ -1,4 +1,4 @@
-package com.cdl.headfirst;
+package com.cdl.headfirst.duckexample;
 
 public class RubberDuck extends Duck {
 

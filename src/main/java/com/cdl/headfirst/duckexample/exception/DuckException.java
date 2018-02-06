@@ -1,4 +1,4 @@
-package com.cdl.headfirst.exception;
+package com.cdl.headfirst.duckexample.exception;
 
 public class DuckException extends RuntimeException {
 

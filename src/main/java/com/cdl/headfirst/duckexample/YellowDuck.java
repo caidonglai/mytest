@@ -1,7 +1,7 @@
-package com.cdl.headfirst;
+package com.cdl.headfirst.duckexample;
 
-import com.cdl.headfirst.behaviorimpl.FlyWithWingsImpl;
-import com.cdl.headfirst.behaviorimpl.QuackImpl;
+import com.cdl.headfirst.duckexample.behaviorimpl.FlyWithWingsImpl;
+import com.cdl.headfirst.duckexample.behaviorimpl.QuackImpl;
 
 public class YellowDuck extends Duck {
 

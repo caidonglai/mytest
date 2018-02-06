@@ -1,8 +1,8 @@
-package com.cdl.headfirst;
+package com.cdl.headfirst.duckexample;
 
-import com.cdl.headfirst.behaviorimpl.FlyWithRocketImpl;
-import com.cdl.headfirst.behaviorimpl.SqueakQuack;
-import com.cdl.headfirst.exception.DuckException;
+import com.cdl.headfirst.duckexample.behaviorimpl.FlyWithRocketImpl;
+import com.cdl.headfirst.duckexample.behaviorimpl.SqueakQuack;
+import com.cdl.headfirst.duckexample.exception.DuckException;
 
 /**
  * 迷你鸭子模拟器

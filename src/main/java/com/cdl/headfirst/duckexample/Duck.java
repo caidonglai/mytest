@@ -1,8 +1,8 @@
-package com.cdl.headfirst;
+package com.cdl.headfirst.duckexample;
 
-import com.cdl.headfirst.behavior.FlyBehavior;
-import com.cdl.headfirst.behavior.QuackBehavior;
-import com.cdl.headfirst.exception.DuckException;
+import com.cdl.headfirst.duckexample.behavior.FlyBehavior;
+import com.cdl.headfirst.duckexample.behavior.QuackBehavior;
+import com.cdl.headfirst.duckexample.exception.DuckException;
 
 public abstract class Duck {
 

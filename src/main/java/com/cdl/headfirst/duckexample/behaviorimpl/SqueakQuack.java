@@ -1,6 +1,6 @@
-package com.cdl.headfirst.behaviorimpl;
+package com.cdl.headfirst.duckexample.behaviorimpl;
 
-import com.cdl.headfirst.behavior.QuackBehavior;
+import com.cdl.headfirst.duckexample.behavior.QuackBehavior;
 
 public class SqueakQuack implements QuackBehavior {
 

@@ -1,6 +1,6 @@
-package com.cdl.headfirst.behaviorimpl;
+package com.cdl.headfirst.duckexample.behaviorimpl;
 
-import com.cdl.headfirst.behavior.FlyBehavior;
+import com.cdl.headfirst.duckexample.behavior.FlyBehavior;
 
 public class FlyWithRocketImpl implements FlyBehavior {
 
