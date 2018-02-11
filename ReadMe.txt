@@ -2,7 +2,7 @@
 1. com.cdl.headfirst.duckexample：是策略模式例子
 2. com.cdl.headfirst.observerexample：是观察者模式例子
 3. com.cdl.headfirst.decoratorexample：是装饰者模式例子
-4. com.cdl.headfirst.factoryexample：是工厂模式
+4. com.cdl.headfirst.factoryexample：是工厂模式例子
 
 设计模式种类：
 1.策略模式：策略模式定义了算法族，分别封装起来，让他们之间可以互相替换，此模式让算法的变化独立于使用算法发的客户。
