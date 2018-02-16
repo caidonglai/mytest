@@ -7,8 +7,8 @@
 6. com.cdl.headfirst.commandexample：是命令模式例子
 7. com.cdl.headfirst.adapterexample：是适配器模式、外观模式例子
 8. com.cdl.headfirst.templateexample：是模板方法模式例子
-9. com.cdl.headfirst.iteratorexample：是迭代器与组合模式
-10.com.cdl.headfirst.stateexample：是状态模式
+9. com.cdl.headfirst.iteratorexample：是迭代器与组合模式例子
+10.com.cdl.headfirst.stateexample：是状态模式例子
 
 设计模式种类：
 1.策略模式：策略模式定义了算法族，分别封装起来，让他们之间可以互相替换，此模式让算法的变化独立于使用算法发的客户；
