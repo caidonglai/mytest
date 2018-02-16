@@ -2,7 +2,7 @@ package com.cdl.headfirst.iteratorexample.composite;
 
 
 /**
- * 组合模式
+ * 迭代器与组合模式
  */
 public class IteratorTestMain {
 
